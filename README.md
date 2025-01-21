@@ -6,4 +6,4 @@ This guide outlines the process for creating agentic workflows in Snowflake Note
 
 ## Step-By-Step Guide
 
-For prerequisites and environment setup, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/getting_started_with_agentic_workflow_using_snowflake_notebooks/index.html).
+For prerequisites and environment setup, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/build-agentic-workflows-with-huggingface-smolagents-in-snowflake/index.html).
