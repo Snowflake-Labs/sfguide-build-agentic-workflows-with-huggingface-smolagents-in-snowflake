@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide outlines the process for creating agentic workflows in Snowflake Notebook on Container Runtime using [smolagent from Hugging Face](https://github.com/huggingface/smolagents). These agents are capable of writing Python code to call tools and orchestrate other agents. In this guide, we will also see how you can create a custom tool in **smolagent** that uses Snowflake Cortex.
+This guide outlines the process for creating agentic workflows in Snowflake Notebook on Container Runtime using [smolagents from Hugging Face](https://github.com/huggingface/smolagents). These agents are capable of writing Python code to call tools and orchestrate other agents. In this guide, you will learn how to create a custom tool in **smolagents** for Snowflake Cortex.
 
 ## Step-By-Step Guide
 
